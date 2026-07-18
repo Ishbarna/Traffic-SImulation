@@ -127,3 +127,80 @@ python traffic.py
 - Signal countdown timer
 
 ---
+## 📊 Performance Metrics
+
+The simulator continuously measures:
+
+- Total waiting time
+- Queue size
+- Number of stopped vehicles
+- Active traffic signal
+- Signal countdown
+
+---
+
+## 🎯 Learning Objectives
+
+This project demonstrates:
+
+- Traffic flow simulation
+- Event-driven programming
+- Object-Oriented Design
+- Vehicle behavior modeling
+- Queue management
+- State machine implementation
+- Pygame graphics programming
+- Basic traffic engineering principles
+
+---
+
+## 📚 Concepts Used
+
+- Simulation and Modeling
+- Traffic Signal Scheduling
+- Queue Theory
+- Collision Detection
+- Sprite Management
+- Randomized Simulation
+- Finite State Machine (FSM)
+- Real-Time Rendering
+
+---
+
+## 🚀 Future Improvements
+
+- Emergency vehicle priority
+- AI-based adaptive traffic lights
+- Multi-lane roads
+- Pedestrian crossings
+- Vehicle turning system
+- Traffic density graphs
+- Data export to CSV
+- Machine Learning traffic optimization
+
+---
+
+## 📷 Screenshots
+
+Add screenshots inside the **screenshots/** folder.
+
+Example:
+
+```
+ demo.png
+```
+
+---
+
+## 📄 Requirements
+
+```
+Python >= 3.9
+Pygame >= 2.5
+```
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
