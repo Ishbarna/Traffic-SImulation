@@ -22,6 +22,11 @@ This project demonstrates fundamental concepts of **Simulation & Modeling**, **T
 
 ## 🖥️ Demo
 
+<p align="center">
+  <img src="demo.png" alt="Traffic Simulation Demo" width="800">
+</p>
+
+
 The simulator contains:
 
 - North-South and East-West traffic signals
@@ -46,11 +51,10 @@ The simulator contains:
 ```
 Smart-Traffic-Intersection-Simulation/
 │
-├── traffic_simulation.py
 ├── README.md
+├──demo.png
 ├── requirements.txt
-└── screenshots/
-      └── demo.png
+└── traffic.py
 ```
 
 ---
@@ -180,17 +184,6 @@ This project demonstrates:
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots inside the **screenshots/** folder.
-
-Example:
-
-```
- demo.png
-```
-
----
 
 ## 📄 Requirements
 
